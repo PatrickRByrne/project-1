@@ -2,4 +2,4 @@
 my first coding project
 
 
-[x] task 1
+- [ ] task 1
